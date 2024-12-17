@@ -1,0 +1,41 @@
+_repo: Elsie-a-Christmas-story_74860
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dawson, Miles Menander
+    gutenberg_agent_id: '57690'
+    url: http://www.gutenberg.org/2009/agents/57690
+creator:
+  author:
+    agent_name: Kielland, Alexander Lange
+    aliases:
+    - Kjelland, Alexander Lange
+    - Kielland, Aleksander L.
+    - Kielland, Alexander L.
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '1776'
+    url: http://www.gutenberg.org/2009/agents/1776
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Kielland
+description: ''
+gutenberg_issued: '2024-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74860'
+language: en
+pgterms:marc904: https://archive.org/details/elsieachristmas00kielgoog/mode/2up
+pgterms:marc905: 20241129135750kielland
+pgterms:marc906: '1889'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles H. Kerr & Company, $c1889, copyright
+  1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Elsie: a Christmas story'
+url: http://www.gutenberg.org/ebooks/74860
