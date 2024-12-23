@@ -5,6 +5,9 @@ contributor:
     agent_name: Dawson, Miles Menander
     gutenberg_agent_id: '57690'
     url: http://www.gutenberg.org/2009/agents/57690
+covers:
+- cover_type: archival
+  image_path: 74860-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Kielland, Alexander Lange
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1776
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Kielland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74860#Elsie-a-Christmas-story
 gutenberg_issued: '2024-12-08'
 gutenberg_type: Text
 identifiers:
